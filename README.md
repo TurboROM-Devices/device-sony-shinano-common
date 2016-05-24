@@ -1,5 +1,5 @@
 
-Copyright 2016 - The Turbo Project
+#Copyright 2016 - The Turbo Project
 
 Common configuration for Sony Shinano devices
 
